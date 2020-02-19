@@ -2,6 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link href= "style.css" rel="stylesheet" />
+    <title> Voice of America</title>
   </head>
 
   <body>
@@ -11,7 +13,7 @@
       <input type="search" placeholder="Search..."/>
       <input type="submit" value="Submit"/>
     </form>
-
+<nav>
     <ul>
       <li>Home</li>
       <li>World</li>
@@ -19,12 +21,18 @@
       <li>Science &amp; Health</li>
       <li>U.S. Politics</li>
     </ul>
-
+    </nav>
+    
+<header>
+  <main>
+  <section>
+    <article>
     <h2>Silicon Valley &amp; Technology</h2>
 
     <h3>Google Chromebooks on the Rise</h3>
 
-    <img src="600.png" />
+    <img src="600.png" alt="chrome" />
+    
 
     <p>A Google Chromebook on display in New York, Feb. 8, 2017. <em>Photo: Google</em>.
 
@@ -37,8 +45,12 @@
     <p>Google doesn't want to stop there. It's releasing new models in partnership with Samsung that are designed to appeal to a broader range of consumers. They have several tablet-like features, including a stylus, touch controls and a 360-degree hinge that allows you to turn the screen faceup. One starts selling Sunday for $449; a more powerful version comes out in April for $100 more.</p>
 
     <p>Google and its manufacturing partners are trying to shed the Chromebook's perception as underperforming budget devices. But even with premium models, expanding beyond U.S. schools won't be easy.</p>
+      </header>
+    </article>
 
-
+    <section>
+    
+    <aside>
     <h4>More Silicon Valley &amp; Tech News</h4>
 
     <ul>
@@ -46,7 +58,12 @@
       <li>Google Makes Internet Balloon ‘Breakthrough’</li>
       <li>Zuckerberg's Goal: Remake а World Facebook Helped Create</li>
     </ul>
+  
+  
 
+    
+    </article>
+    
     <h4>Blogs</h4>
 
     <h5>Techtonics</h5>
@@ -55,7 +72,14 @@
       <li>Tech Goes to Work to Help Europe's Refugees Assimilate</li>
       <li>Olive Oil Key to a Healthy Heart</li>
     </ul>
-
+     </aside>
+     
+      <main>
+        
+      </section>
+    
+     <footer>
+  
     <h2>Other ways to access VOA</h2>
 
     <ul>
@@ -63,6 +87,7 @@
       <li>Subsribe to our podcasts</li>
       <li>RSS feeds</li>
     </ul>
+        
 
     <h2>About this Site</h2>
 
@@ -91,7 +116,9 @@
       <li>Americas</li>
     </ul>
 
-    <p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</p>
-
-  </body>
+    <p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small></p>
+   </main>
+</footer> 
+    
+ </body>
 </html>
