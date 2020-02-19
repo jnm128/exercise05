@@ -20,31 +20,35 @@
       <li><a href="article.html">Science &amp; Health</a></li>
       <li><a href="article.html">U.S. Politics</a></li>
     </ul>
-
+<article>
    <h2>Silicon Valley &amp; Technology</h2>
-
+</article>
+<article>
    <h3>Tehran Bans Drones After Security Scares</h3>
     <img src="400.pn" alt="Drones in Tehran"/>
+  </article>
 
    <p>The Iranian military has banned the unauthorized use of drones in the capital Tehran, after several security scares caused by unpiloted aircraft that are increasingly popular with hobbyists and filmmakers.</p>
 
    <p><a href="article.html">Read More</a></p>
-
+<article>
    <h3>Google Makes Internet Balloon ‘Breakthrough’</h3>
     <img src="400.png" alt="Google balloon!" />
 
    <p>Google’s parent company, Alphabet, says the company has made a “breakthrough” on its plans to offer Internet access to rural areas via connected balloons through an endeavor called Project Loon.</p>
 
    <p><a href="article.html">Read More</a></p>
-
+</article>
+<article>
    <h3>Zuckerberg's Goal: Remake а World Facebook Helped Create</h3>
    <img src="400.png" alt="Zuckerberg goal" />
 
    <p>Mark Zuckerberg helped create the modern world by connecting nearly a quarter of its citizens to Facebook and giving them a platform to share, well, everything - baby pictures and Pepe memes, social updates and abusive bullying, helpful how-to videos and live-streamed violence.</p>
 
    <p><a href="article.html">Read More</a></p>
-
+</article>
 <section>
+  <aside>
   
    <h2>More Stories</h2>
    
@@ -62,6 +66,7 @@
    <h3><a href="article.html">Immediacy Twitter Provides Overrated, Some Experts Say</a></h3>
    <img src="300.png" alt="Trump tweets" />
   </article>
+  </aside>
   
 <main>
   
