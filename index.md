@@ -25,7 +25,7 @@
 </article>
 <article>
    <h3>Tehran Bans Drones After Security Scares</h3>
-    <img src="400.pn" alt="Drones in Tehran"/>
+    <img src="400.png" alt="Drones in Tehran"/>
   </article>
 
    <p>The Iranian military has banned the unauthorized use of drones in the capital Tehran, after several security scares caused by unpiloted aircraft that are increasingly popular with hobbyists and filmmakers.</p>
